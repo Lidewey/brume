@@ -3,4 +3,5 @@ layout: page
 title: About
 ---
 
-Nothing yet :(
+Website about Paris!
+
